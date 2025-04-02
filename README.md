@@ -56,6 +56,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daSilvaengineer&layout=compact&theme=dark&hide_border=true" />
 
 <!-- Snake Animation (opcional) -->
-<img src="https://raw.githubusercontent.com/daSilvaengineer/daSilvaengineer/output/github-contribution-grid-snake.svg" />
 
 </div>
