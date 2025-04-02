@@ -2,31 +2,6 @@
 
 <div align="center">
 
-<!-- Banner com gradiente profissional -->
-<style>
-  .banner {
-    background: linear-gradient(45deg, #2b5876, #4e4376);
-    padding: 2rem;
-    border-radius: 12px;
-    color: white;
-    font-family: 'Segoe UI', sans-serif;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  .badge {
-    display: inline-block;
-    margin: 0.3rem;
-    padding: 0.5rem 1rem;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 50px;
-    font-weight: 600;
-  }
-  .section {
-    text-align: left;
-    margin: 2rem 0;
-    padding: 1rem;
-    border-left: 4px solid #4e4376;
-  }
-</style>
 
 <!-- Banner Principal -->
 <div class="banner">
