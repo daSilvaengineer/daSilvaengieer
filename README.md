@@ -51,10 +51,3 @@
   <span class="badge">ELK Stack</span>
 </div>
 
-<!-- Estatísticas do GitHub -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daSilvaengineerR&show_icons=true&theme=dark&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daSilvaengineer&layout=compact&theme=dark&hide_border=true" />
-
-<!-- Snake Animation (opcional) -->
-
-</div>
